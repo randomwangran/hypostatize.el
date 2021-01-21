@@ -1,5 +1,5 @@
 * goal
-- print all existing slip-box notes into physical paper
+- print all existing slip-box notes into physical papers
 
 * steps
 ** write checker to check all the formats
