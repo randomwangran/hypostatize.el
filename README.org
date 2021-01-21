@@ -1,0 +1,8 @@
+* goal
+- print all existing slip-box notes into physical paper
+
+* steps
+** write checker to check all the formats
+This will be a huge process. It's better to define the template as versetial as possible
+** md5 all files when decide to print slip-notes
+Next time, when 2nd print, there's no need to print files that are not changed 
