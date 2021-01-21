@@ -7,5 +7,7 @@ Digital computer is not a robust system. If a strong solar wind randomly flip ov
 * steps
 ** write checker to check all the formats
 This will be a huge process. It's better to define the template as versetial as possible
+*** https://github.com/randomwangran/ox-md-with-transclusion.el
+This is an embark to work with.
 ** md5 all files when decide to print slip-notes
 Next time, when 2nd print, there's no need to print files that are not changed 
