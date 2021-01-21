@@ -11,3 +11,7 @@ This will be a huge process. It's better to define the template as versetial as 
 This is an embark to work with.
 ** md5 all files when decide to print slip-notes
 Next time, when 2nd print, there's no need to print files that are not changed 
+
+* todo
+** 2-way-transform
+Restore from a physical system into digitial one is not easy but possible.
