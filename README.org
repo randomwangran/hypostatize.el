@@ -15,6 +15,11 @@ This is an embark to work with.
 Next time, when 2nd print, there's no need to print files that are not changed 
 
 * todo
+** check the length of the notes
+Should forces a limitation of a note to construct a physical note. 
+Check the discussion here: https://forum.zettelkasten.de/discussion/1651/how-long-a-zettel-is-too-long#latest
+** resolve the relation within an Org-mode file
+Headline1 is the father of headline2. This might not be resolved by database.
 ** 2-way-transform
 Restore from a physical system into digitial one is not easy but possible.
 
