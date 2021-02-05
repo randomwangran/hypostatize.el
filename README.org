@@ -17,3 +17,7 @@ Next time, when 2nd print, there's no need to print files that are not changed
 * todo
 ** 2-way-transform
 Restore from a physical system into digitial one is not easy but possible.
+
+This is a test for github code-base.
+
+It's like new editor in the broswer.
