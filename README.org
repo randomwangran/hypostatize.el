@@ -23,6 +23,6 @@ Headline1 is the father of headline2. This might not be resolved by database.
 ** 2-way-transform
 Restore from a physical system into digitial one is not easy but possible.
 
-This is a test for github code-base.
+The layout should be design such that the scanner software is able to pickup the meta-info with easy. 
 
-It's like new editor in the broswer.
+This will be a promosing idea to work with. Since the user can work both from the physical ZK and digitial computers.
